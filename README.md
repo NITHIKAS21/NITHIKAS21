@@ -86,11 +86,6 @@ I believe consistent learning and practical experience are the best ways to grow
 ---
 
  📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NITHIKAS21&show_icons=true&theme=tokyonight" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITHIKAS21&theme=tokyonight" />
 </p>
